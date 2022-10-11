@@ -1,0 +1,194 @@
+#cornice
+{
+	position:absolute;
+	top:2%;
+	left:14%;
+	right: 2.5%;
+	width:75%;
+	height:95%;
+	/*border-style:solid;
+	border-width:1px; */
+	overflow:auto;
+	background-color: rgb(227,80,80);
+   
+}
+
+#alto
+{
+	position: absolute;
+	top:1%;
+	left:1%;
+	width:98%;
+	height:20%;
+	/*border-style:solid;
+	border-width:1px;*/
+	background-color: black;
+}
+
+#logo
+{
+	position:absolute;
+	top:5%;
+	left:80%;
+	width:15%;
+	height:90%;
+	text-align:center;
+	font-size:20pt;
+	/*border-style:dashed;
+	border-width:2px;*/
+}
+#titolo
+{
+	position: absolute;
+	top:25%;
+	left:10%;
+	width:68%;
+	height:60%;
+	text-align:center;
+	font-size:20pt;
+}
+
+#basso
+{
+	position: absolute;
+	top:22%;
+	left:1%;
+	width:98%;
+	height:76%;
+	/*border-style:solid;
+	border-width:1px;*/
+}
+
+#menu1
+{
+	position:absolute;
+	top:2%;
+	left:0.6%;
+	width:14%;
+	height:95%;
+	/*border-style:solid;
+	border-width:1pt;*/
+	border-radius: 15px;
+	background-color: yellow;
+}
+
+#menu2
+{
+	position:absolute;
+	top:2%;
+	left:85%;
+	width:14.6%;
+	height:95%;
+	/*border-style:solid;
+	border-width:1pt;*/
+	border-radius: 15px;
+	background-color: yellow;
+}
+
+#contenuto
+{
+	position:absolute;
+	top:22%;
+	left:1%;
+	width:98%;
+	/*height:100%;
+	/*border-style:solid;
+	border-width:1pt;*/
+	background-color: whitesmoke;
+	
+}
+@media screen and (width<=600px)
+{
+	#alto
+	{
+		font-size: 24px;
+	}
+	#basso
+	{
+		height: 200%;
+	}
+
+
+	#contenuto
+	{
+		left: 0;
+		width: 100%;
+
+	}
+}
+p
+{
+	font-size: 13pt;
+	text-align: justify;
+	}
+nav{
+	background-color: red;
+	overflow: sticky;
+	top: 0px;
+	
+}
+/*...........................................................................................................................*/
+
+.dropbtn {
+    background-color: red;
+    font-weight: bold;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: lightyellow;
+    min-width: 200px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: rgb(255,249,92);}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: yellow;}
+
+table{
+	border: solid;
+	margin: auto;
+	
+}
+
+td{
+	border: solid;
+
+}
+section{
+	background-color: rgb(227,80,80);	
+	}
+.ridotto {
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+
+.stop {
+    float: none;
+    clear: both;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+.sezione{
+	background-color: red;	
+	}	
+	

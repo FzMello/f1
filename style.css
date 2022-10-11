@@ -1,0 +1,90 @@
+#cornice
+{
+	position:absolute;
+	top:2.5%;
+	left:2.5%;
+	right: 2.5%;
+	width:95%;
+	height:95%;
+	/*border-style:solid;
+	border-width:1px;*/ 
+}
+
+#alto
+{
+	position: absolute;
+	top:1%;
+	left:1%;
+	width:98%;
+	height:20%;
+	/*border-style:solid;
+	border-width:1px;*/
+	background-color: black;
+}
+
+#logo
+{
+	position:absolute;
+	top:5%;
+	left:80%;
+	width:15%;
+	height:90%;
+	text-align:center;
+	font-size:20pt;
+	/*border-style:dashed;
+	border-width:2px;*/
+}
+#titolo
+{
+	position: absolute;
+	top:25%;
+	left:10%;
+	width:68%;
+	height:60%;
+	text-align:center;
+	font-size:20pt;
+}
+
+#basso
+{
+	position: absolute;
+	top:22%;
+	left:1%;
+	width:98%;
+	height:76%;
+	/*border-style:solid;
+	border-width:1px;*/
+}
+
+
+#menu2
+{
+	position:absolute;
+	top:2%;
+	left:1%;
+	width:98%;
+	height:15%;
+	/*border-style:solid;
+	border-width:1px;*/
+}
+
+#contenuto
+{
+	position:absolute;
+	top:2%;
+	left:1%;
+	width:98%;
+	height:98%;
+	/*border-style:solid;
+	border-width:1pt;
+	overflow:auto;*/
+}
+
+p
+{
+	font-size: 13pt;
+	text-align: justify;
+	}
+	
+
+

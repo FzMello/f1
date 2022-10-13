@@ -115,6 +115,14 @@
 		width: 100%;
 
 	}
+	#menu1{
+
+		width: 0;
+	}
+	#menu2{
+
+		width: 0;
+	}
 }
 p
 {

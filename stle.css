@@ -85,7 +85,7 @@
 	background-color: yellow;
 }
 
-#contenuto
+.contenuto
 {
 	position:absolute;
 	top:22%;
@@ -109,7 +109,7 @@
 	}
 
 
-	#contenuto
+	.contenuto
 	{
 		left: 15;
 		width: 60%;

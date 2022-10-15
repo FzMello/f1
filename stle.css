@@ -61,7 +61,7 @@
 
 #menu1
 {
-	position:absolute;
+	/*position:absolute;*/
 	top:2%;
 	left:0.6%;
 	width:14%;
@@ -74,7 +74,7 @@
 
 #menu2
 {
-	position:absolute;
+	/*position:absolute;*/
 	top:2%;
 	left:85%;
 	width:14.6%;
@@ -114,6 +114,13 @@
 		left: 0;
 		width: 100%;
 
+	}
+	#menu1{
+		width: 0%;
+		
+	}
+	#menu2{
+		width: 0%;	
 	}
 }
 p

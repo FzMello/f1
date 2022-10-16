@@ -61,7 +61,7 @@
 
 #menu1
 {
-	/*position:absolute;*/
+	position:absolute;
 	top:2%;
 	left:0.6%;
 	width:14%;
@@ -74,7 +74,7 @@
 
 #menu2
 {
-	/*position:absolute;*/
+	position:absolute;
 	top:2%;
 	left:85%;
 	width:14.6%;
@@ -97,6 +97,17 @@
 	background-color: whitesmoke;
 	
 }
+p
+{
+	font-size: 13pt;
+	text-align: justify;
+	}
+nav{
+	background-color: red;
+	overflow: sticky;
+	top: 0px;
+	
+}
 @media screen and (width<=600px)
 {
 	#alto
@@ -116,26 +127,25 @@
 
 	}
 	#menu1{
+		height: 0%;
 		width: 0%;
-		
 	}
 	#menu2{
-		width: 0%;	
+		width: 0%;
+		height: 0%;
+	}
+	.immagine{
+		width: 20%;
+		height: 10%;
 	}
 }
-p
-{
-	font-size: 13pt;
-	text-align: justify;
-	}
-nav{
-	background-color: red;
-	overflow: sticky;
-	top: 0px;
-	
-}
+
 /*...........................................................................................................................*/
 
+.immagine{
+	width: 800;
+	height: 120;
+}
 .dropbtn {
     background-color: red;
     font-weight: bold;

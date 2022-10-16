@@ -109,9 +109,8 @@ nav{
 	
 }
 h1{
-	width: 90%;
+	width: 400%;
 	color: red;
-	text-decoration-style: initial;
 }
 @media screen and (width<=600px)
 {

@@ -108,6 +108,10 @@ nav{
 	top: 0px;
 	
 }
+h1{
+	width: 50%;
+	color: red;
+}
 @media screen and (width<=600px)
 {
 	#alto

@@ -111,6 +111,9 @@ nav{
 h1{
 	width: 400%;
 	color: red;
+	font-size: xx-large;
+	font-style: oblique;
+	font-family: fantasy;
 }
 @media screen and (width<=600px)
 {

@@ -9,7 +9,7 @@
 	/*border-style:solid;
 	border-width:1px; */
 	overflow:auto;
-	background-color: rgb(26, 0, 43);
+	background-color: rgb(50, 5, 78);
    
 }
 
@@ -69,7 +69,7 @@
 	/*border-style:solid;
 	border-width:1pt;*/
 	border-radius: 15px;
-	background-color: yellow;
+	background-color: rgb(86, 42, 114);
 }
 
 #menu2
@@ -82,7 +82,7 @@
 	/*border-style:solid;
 	border-width:1pt;*/
 	border-radius: 15px;
-	background-color: yellow;
+	background-color: rgb(86, 42, 114);
 }
 
 #contenuto
@@ -94,7 +94,7 @@
 	/*height:100%;
 	/*border-style:solid;
 	border-width:1pt;*/
-	background-color: whitesmoke;
+	background-color: rgb(192, 192, 192);
 	
 }
 
@@ -105,7 +105,7 @@ p
 }
 
 nav{
-	background-color: red;
+	background-color: rgb(26, 0, 43);
 	overflow-y: sticky;
 	top: 0px;
 }

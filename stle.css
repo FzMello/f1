@@ -117,6 +117,21 @@ h1{
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+table{
+	border: solid;
+	margin: auto;
+	
+}
+
+td{
+	border: solid;
+
+}
+
+section{
+	background-color: rgb(227,80,80);	
+}
+
 
 @media screen and (width<=600px)
 {
@@ -160,7 +175,7 @@ h1{
 	
 }
 .immagine{
-	width: 200px;
+	width: 100px;
 }
 .dropbtn {
     background-color: red;
@@ -195,19 +210,7 @@ h1{
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: yellow;}
 
-table{
-	border: solid;
-	margin: auto;
-	
-}
 
-td{
-	border: solid;
-
-}
-section{
-	background-color: rgb(227,80,80);	
-	}
 .ridotto {
     width: 24%;
     float: left;

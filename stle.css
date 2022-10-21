@@ -178,9 +178,9 @@ section{
 	margin: auto;
 }
 .dropbtn {
-    background-color: red;
+    background-color: rgb(26, 0, 43) ;
     font-weight: bold;
-    color: black;
+    color: white;
     padding: 16px;
     font-size: 16px;
     border: none;

@@ -194,7 +194,7 @@ section{
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: lightyellow;
+    background-color: rgb(131, 103, 149);
     min-width: 200px;
     z-index: 1;
 }
@@ -206,9 +206,9 @@ section{
     display: block;
 }
 
-.dropdown-content a:hover {background-color: rgb(255,249,92);}
+.dropdown-content a:hover {background-color: rgb(192, 192, 192);}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: yellow;}
+.dropdown:hover .dropbtn {background-color: rgb(192, 192, 192)}
 
 
 .ridotto {

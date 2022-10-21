@@ -97,23 +97,27 @@
 	background-color: whitesmoke;
 	
 }
+
 p
 {
 	font-size: 13pt;
 	text-align: justify;
-	}
+}
+
 nav{
 	background-color: red;
-	overflow: sticky;
+	overflow-y: sticky;
 	top: 0px;
-	
 }
+
 h1{
 	color: red;
-	font-size: 80%;
+	font-size: 80px;
 	font-style: oblique;
-	font-family: fantasy;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
 @media screen and (width<=600px)
 {
 	#alto
@@ -148,9 +152,16 @@ h1{
 
 /*...........................................................................................................................*/
 
+.stop{
+	float: none;
+	clear: both;
+	border: none;
+	padding: 2px;
+	margin: 2px;
+	
+}
 .immagine{
-	width: 800;
-	height: 120;
+	width: 200px;
 }
 .dropbtn {
     background-color: red;

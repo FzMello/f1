@@ -102,7 +102,7 @@ p
 	width: 100px;
 	margin: auto;
 }
-@media screen and (width<=600px)
+@media screen and (width<=900px)
 {
 	#alto
 	{

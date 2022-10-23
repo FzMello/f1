@@ -86,22 +86,51 @@ p
 	text-align: justify;
 	}
 	
-
-	@media screen and (width<=600px)
+.piloti{
+	width: 100px;
+	height: 100px;
+}
+.squadre{
+	width: 100px;
+	height: 50px;
+}
+.centrale{
+	width: 700px;
+	height: 300px;
+}
+@media screen and (width<=600px)
+{
+	#alto
 	{
-		#alto
-		{
-			font-size: 24px;
-			height: 15%;
-		}
-		#basso
-		{
-			height: 200%;
-		}
+		font-size: 24px;
+		height: 15%;
+	}
+
+	#basso
+	{
+		height: 200%;
+	}
+
+	#contenuto
+	{
+	left: 0;
+	width: 50%;
+	}
 	
-	
-		#contenuto
-		{
-			left: 0;
-			width: 50%;
-	
+	.piloti{
+		width: 45px;
+		height: 45px;
+	}
+	.squadre{
+		width: 45px;
+		height: 25px;
+	}
+	.centrale{
+		width: 100px;
+		height: 50px;
+	}
+}
+.immagine{
+	width: 100px;
+	margin: auto;
+}

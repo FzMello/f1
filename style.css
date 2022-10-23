@@ -85,6 +85,10 @@ p
 	font-size: 13pt;
 	text-align: justify;
 	}
+
+table{
+	margin: auto;
+}
 	
 .piloti{
 	width: 100px;

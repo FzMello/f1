@@ -98,6 +98,10 @@ p
 	width: 700px;
 	height: 300px;
 }
+.immagine{
+	width: 100px;
+	margin: auto;
+}
 @media screen and (width<=600px)
 {
 	#alto
@@ -129,8 +133,4 @@ p
 		width: 100px;
 		height: 50px;
 	}
-}
-.immagine{
-	width: 100px;
-	margin: auto;
 }

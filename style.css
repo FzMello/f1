@@ -87,4 +87,21 @@ p
 	}
 	
 
-
+	@media screen and (width<=600px)
+	{
+		#alto
+		{
+			font-size: 24px;
+			height: 15%;
+		}
+		#basso
+		{
+			height: 200%;
+		}
+	
+	
+		#contenuto
+		{
+			left: 0;
+			width: 50%;
+	
